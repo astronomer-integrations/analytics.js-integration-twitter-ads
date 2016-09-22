@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-twitter-ads",
+  "name": "@astronomerio/analytics.js-integration-twitter-ads",
   "description": "The Twitter Ads analytics.js integration.",
   "version": "2.2.0",
   "keywords": [
