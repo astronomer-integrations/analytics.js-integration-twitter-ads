@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-twitter-ads.git"
+    "url": "git+https://github.com/astronomer-integrations/analytics.js-integration-twitter-ads.git"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Astronomer <info@astronomer.io>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-twitter-ads/issues"
+    "url": "https://github.com/astronomer-integrations/analytics.js-integration-twitter-ads/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-twitter-ads#readme",
+  "homepage": "https://github.com/astronomer-integrations/analytics.js-integration-twitter-ads#readme",
   "dependencies": {
     "@ndhoule/defaults": "^2.0.1",
     "@ndhoule/foldl": "^2.0.1",
